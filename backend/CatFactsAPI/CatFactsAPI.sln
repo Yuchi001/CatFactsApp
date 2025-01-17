@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatApi", "CatApi\CatApi.csproj", "{935DC4D0-135B-40D9-AA5E-3543722C18FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFactAPI.Tests", "CatFactAPI.Tests\CatFactAPI.Tests.csproj", "{BB701694-2F58-4067-8FBE-65DC9267A50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935DC4D0-135B-40D9-AA5E-3543722C18FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935DC4D0-135B-40D9-AA5E-3543722C18FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935DC4D0-135B-40D9-AA5E-3543722C18FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935DC4D0-135B-40D9-AA5E-3543722C18FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB701694-2F58-4067-8FBE-65DC9267A50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB701694-2F58-4067-8FBE-65DC9267A50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB701694-2F58-4067-8FBE-65DC9267A50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB701694-2F58-4067-8FBE-65DC9267A50B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
