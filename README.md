@@ -28,9 +28,9 @@ Make sure you have these tools installed:
 
 1. Go into backend folder:
    ```bash
-   cd Backend
+   cd backend\CatFactsAPI\CatApi
    ```
-2. Install the required .NET dependencies:
+2. Install the required .NET dependencies: (as administrator)
    ```bash
     dotnet restore
    ```
@@ -43,13 +43,13 @@ Make sure you have these tools installed:
 
 1. Go into frontend folder:
    ```bash
-   cd Frontend
+   cd frontend\CatFactsPage
    ```
-2. Install the required dependencies using Yarn:
+2. Install the required dependencies using Yarn: (as administrator)
    ```bash
    yarn install
    ```
-3. Start frontend development server:
+4. Start frontend development server:
    ```bash
    yarn start
    ```
